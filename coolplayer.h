@@ -1,0 +1,17 @@
+#define ID_DELETE                       40007
+#define ID_REPEAT                       40008
+#define ID_SHUFFLE                      40009
+#define ID_PLAY                         40010
+#define ID_STOP                         40011
+#define ID_PAUSE                        40012
+#define ID_LOAD                         40013
+#define ID_NEXT                         40014
+#define ID_PREVIOUS                     40015
+#define ID_VOLUMEUP                     40016
+#define ID_VOLUMEDOWN                   40017
+#define ID_SEEKFORWARD                  40022
+#define ID_SEEKBACKWARD                 40023
+#define ID_ABOUT                        40024
+#define ID_PLAYLIST                     40026
+#define ID_DRAWSKINLINES                40027
+#define ID_LOADSKIN                     40028
